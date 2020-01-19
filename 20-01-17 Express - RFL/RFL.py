@@ -1,5 +1,6 @@
 """
 @author: Yoram Houtsma
+Riddle at https://fivethirtyeight.com/features/can-you-track-the-delirious-ducks/
 """
 
 import matplotlib.pyplot as plt
